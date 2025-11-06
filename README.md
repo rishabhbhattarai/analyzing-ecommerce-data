@@ -142,10 +142,8 @@ The dataset consists of **four CSV files**, each serving a specific function in 
 
 Interactive dashboards are published on Tableau Public:
 
-🔗 [Executive Dashboard]("https://public.tableau.com/app/profile/rishabh.bhattarai/viz/AnalyzingeCommerceData/ExecutiveOverview")
-🔗 [Shipping Cost What-If Analysis]("https://public.tableau.com/app/profile/rishabh.bhattarai/viz/AnalyzingeCommerceData/WhatifAnalysis")
-
-*(Replace “#” with your actual Tableau Public URLs)*
+🔗 [Executive Dashboard](https://public.tableau.com/app/profile/rishabh.bhattarai/viz/AnalyzingeCommerceData/ExecutiveOverview)
+🔗 [Shipping Cost What-If Analysis](https://public.tableau.com/app/profile/rishabh.bhattarai/viz/AnalyzingeCommerceData/WhatifAnalysis)
 
 ---
 
